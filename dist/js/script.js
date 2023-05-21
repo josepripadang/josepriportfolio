@@ -9,7 +9,7 @@ darkikon.addEventListener('click', function(){
         darkikon.classList.add('hidden');
         sunikon.classList.toggle('hidden');
     }
-})
+});
 
 sunikon.addEventListener('click', function(){
     html.classList.toggle('dark');
@@ -17,7 +17,7 @@ sunikon.addEventListener('click', function(){
         sunikon.classList.add('hidden');
         darkikon.classList.toggle('hidden');
     }
-})
+});
 
 
 
